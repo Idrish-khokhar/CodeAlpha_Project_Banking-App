@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class SimpleBankingApp {
     private static double balance = 0.0;
