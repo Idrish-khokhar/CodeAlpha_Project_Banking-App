@@ -62,5 +62,7 @@ public class SimpleBankingApp {
 
     private static void checkBalance() {
         System.out.println("Your current balance is: $" + balance);
+       
     }
+    
 }
